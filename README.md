@@ -1,4 +1,4 @@
-# Weather Data Analysis Project
+# Weather Data Exploration using Jupyter
 
 This project focuses on analyzing weather data using Python and Jupyter Notebook. The dataset includes various attributes such as wind speed, temperature, humidity, visibility, and pressure. The aim is to answer specific analytical questions related to the weather conditions.
 
